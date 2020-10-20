@@ -20,6 +20,7 @@ My Projects:
 - [manim_action_renderer](https://github.com/manim-kindergarten/manim_action_renderer): a GitHub action to render manim videos
 -->
 <!--
+
 **EARodriguezM/EARodriguezM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
