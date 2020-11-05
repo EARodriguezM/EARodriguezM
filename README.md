@@ -5,10 +5,18 @@
 
 [![Esteban's stats](https://github-readme-stats.vercel.app/api?username=EARodriguezM&show_icons=true&count_private=true&line_height=27)](https://github.com/EARodriguezM)
 
+**Now**
+
+- 🔭 I’m currently working on
+  -- NeuNet: *Image classification tool prototype using artificial neural networks.*
+  -- NetU: *My personal web app for some university.*
+- 🌱 I’m currently learning
+  -- *Artificial Inteligence*
+  -- *Full web application*
+
+<!--
 **EARodriguezM/EARodriguezM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
