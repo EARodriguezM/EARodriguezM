@@ -8,11 +8,11 @@
 **Now**
 
 - 🔭 I’m currently working on
-  -- NeuNet: *Image classification tool prototype using artificial neural networks.*
-  -- NetU: *My personal web app for some university.*
+  - NeuNet: *Image classification tool prototype using artificial neural networks.*
+  - NetU: *My personal web app for some university.*
 - 🌱 I’m currently learning
-  -- *Artificial Inteligence*
-  -- *Full web application*
+  - *Artificial Inteligence*
+  - *Full web application*
 
 <!--
 **EARodriguezM/EARodriguezM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
