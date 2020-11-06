@@ -6,7 +6,8 @@
 <h4>about me</h4>
 
 - 🔭 I’m currently working on
-  - NeuNet: *Image classification tool prototype using artificial neural networks.*
+  - WhatImg: *Image classification tool prototype using artificial neural networks.*
+  - NeuNet: *Desktop app to train and use neural networks*
   - NetU: *My personal web app for some university.*
 - 🌱 I’m currently learning
   - *Artificial Inteligence*
