@@ -1,8 +1,11 @@
 
 <h3 align="center"> Esteban Rodriguez </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EARodriguezM&hide=html,css&count_private=true)](https://github.com/EARodriguezM) [![Esteban's stats](https://github-readme-stats.vercel.app/api?username=EARodriguezM&show_icons=true&count_private=true&line_height=27)](https://github.com/EARodriguezM)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EARodriguezM&hide=html,css&count_private=true)](https://github.com/EARodriguezM) 
 
+<!--
+[![Esteban's stats](https://github-readme-stats.vercel.app/api?username=EARodriguezM&show_icons=true&count_private=true&line_height=27)](https://github.com/EARodriguezM)
+-->
 <h4>about me</h4>
 
 - 🔭 I’m currently working on
